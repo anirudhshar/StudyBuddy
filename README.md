@@ -43,7 +43,7 @@ Study Buddy is a student-focused app designed to help you organize and manage yo
 
 ## License  
 
-This project is licensed under the MIT License.  
+This project is not licensed.  
 
 ---  
 
